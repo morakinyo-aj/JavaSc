@@ -20,7 +20,7 @@ This is a simple JavaScript banking application that allows users to access thei
 7. You can choose to perform another transaction or exit.
 
 **Code Overview**
-- The main logic is contained in the `index.html` file.
+- The main logic is contained in the `tijesu.js` file.
 - The user is prompted to enter their name and PIN.
 - If the PIN is correct, the user can withdraw cash if the withdrawal amount is valid.
 - The user can choose to perform another transaction or exit.
